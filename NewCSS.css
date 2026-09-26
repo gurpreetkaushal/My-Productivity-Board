@@ -1,0 +1,75 @@
+body{
+    
+    background: linear-gradient(95deg,rgb(1, 1, 34), rgb(60, 60, 193));
+}
+
+#main{
+    width: 55%;
+    background-color: white;
+    border-radius: 5%;
+    margin-top: 10%;
+    padding: 20px;
+    background: linear-gradient(45deg, #4facfe, #00f2fe);
+}
+#main h1{
+    font-size: 50px;
+    color: rgb(4, 4, 34);
+}
+#div_1{
+    font-size: 25px;
+}
+#div_2{
+    font-size: 25px;
+}
+#enter{
+    font-size: 25px;
+}
+#container{
+    font-size: 25px;
+}
+#div_1{
+    margin-bottom: 30px;
+}
+#add{
+    background-color: rgb(57, 57, 181);
+    font-size: 25px;
+    transition: 0.3s;
+}
+#add:hover{
+    background-color: rgb(133, 133, 249);
+    transform:scale(1.05);
+}
+#edit{
+    background-color: rgb(83, 34, 133);
+    font-size: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#edit:hover{
+    background-color:  rgb(151, 77, 225);
+    transform:scale(1.05);
+}
+#done{
+    background-color: rgb(30, 142, 30);
+    font-size: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#done:hover{
+    background-color:  rgb(71, 230, 71);
+    transform:scale(1.05);
+}
+#del{
+    background-color: rgb(209, 10, 10);
+    font-size: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#del:hover{
+    background-color: rgb(245, 85, 85);
+    transform:scale(1.05);
+}
+
